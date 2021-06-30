@@ -8,7 +8,7 @@ const s = () => {
   let a = "s";
 };
 function e () {}
-let obj = {
+       let  obj = {
   d: 1,
   r: 5,
 };
