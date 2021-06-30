@@ -7,8 +7,8 @@ const s = () => {
   console.log("helo");
   let a = "s";
 };
-function e () {}
-       let  obj = {
+function e() {}
+let obj = {
   d: 1,
   r: 5,
 };
