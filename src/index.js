@@ -4,8 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 const s  = () => {
-  con
-  sole.log('helo')
+  console.log('helo')
 }
 ReactDOM.render(
   <React.StrictMode>
